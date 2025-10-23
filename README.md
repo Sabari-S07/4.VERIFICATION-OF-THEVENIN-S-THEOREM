@@ -19,9 +19,8 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 6.	Multimeter	---	1
 
 **THEORY:**
-
+![alt text](<WhatsApp Image 2025-10-23 at 17.58.21_acaefdd3.jpg>)
 **THEVENIN’S THEOREM:**
-
 Thevenin’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a voltage source, VTh (= Voc) in series with a resistor RTh, where VTh is the open-circuit voltage at the load terminals and RThis the input or equivalent resistance at the load terminals( AB) when the independent sources are turned off’.
 
 Thevenin’s Voltage, VTh:
@@ -33,7 +32,9 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
-
+![alt text](<WhatsApp Image 2025-10-23 at 17.52.00_e2dbe7e5.jpg>)
+![alt text](<WhatsApp Image 2025-10-23 at 17.52.00_d09a7b2d.jpg>)
+![alt text](<WhatsApp Image 2025-10-23 at 17.52.01_8425480b.jpg>)
 To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
